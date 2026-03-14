@@ -6,11 +6,11 @@ A React Native mobile app built with **Expo** that simulates an influencer marke
 
 ## Features
 
-- Browse 20 influencers fetched from [randomuser.me](https://randomuser.me)
+- Browse 20 influencers fetched from [randomuser.me](https://randomuser.me)   https://randomuser.me/api/?results=20
 - Search by name or location in real-time
 - Star/favorite influencers (persisted with AsyncStorage)
 - View detailed influencer profiles with stats
-- Recent campaign posts from [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
+- Recent campaign posts from [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) .      https://jsonplaceholder.typicode.com/posts
 
 ## Tech Stack
 
